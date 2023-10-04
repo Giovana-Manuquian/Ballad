@@ -17,7 +17,9 @@ Verifique a elegibilidade da idade para acesso.</br>
 <p>Clone ou baixe este repositório em sua máquina local.</br>
 Certifique-se de ter o Python instalado em seu sistema.</br>
 Execute o script balladdrinks.py em seu ambiente Python preferido.</p>
+
     python balladdrinks.py
+    
 <p>Siga as instruções na tela para escolher o tipo de ingresso, fornecer sua idade e status de estudante.</br>
 O programa calculará o preço do ingresso com base em suas escolhas e elegibilidade.</p>
 
